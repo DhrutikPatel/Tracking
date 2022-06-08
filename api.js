@@ -10,6 +10,9 @@ const api_url = "https://services.marinetraffic.com/api/etatoport/" + api_key + 
 // mmsi = 441582000
 // port = 5496
 
+// mmsi = 565365000
+// port = 5496
+
 
 async function getapi(url) {
   
